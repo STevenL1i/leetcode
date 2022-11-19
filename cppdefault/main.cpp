@@ -8,7 +8,8 @@ bool canConstruct(string ransomNote, string magazine) {
     strcpy(s, magazine.c_str());
 
     vector<char> token(magazine.begin(), magazine.end());
-    
+
+
 
     return true;
 }

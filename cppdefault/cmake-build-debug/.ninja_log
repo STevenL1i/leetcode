@@ -1,0 +1,11 @@
+# ninja log v5
+0	597	6905861115139197	CMakeFiles/cppdefault.dir/main.cpp.obj	d019d32135e4280d
+599	761	6905861116744884	cppdefault.exe	abdc0c5aeeb0f6f9
+2	652	6905861854094314	CMakeFiles/cppdefault.dir/main.cpp.obj	d019d32135e4280d
+652	787	6905861855420491	cppdefault.exe	abdc0c5aeeb0f6f9
+2	591	6905862582645756	CMakeFiles/cppdefault.dir/main.cpp.obj	d019d32135e4280d
+591	719	6905862583892096	cppdefault.exe	abdc0c5aeeb0f6f9
+2	598	6905865535110775	CMakeFiles/cppdefault.dir/main.cpp.obj	d019d32135e4280d
+598	725	6905865536357419	cppdefault.exe	abdc0c5aeeb0f6f9
+2	1301	6905868849721407	CMakeFiles/cppdefault.dir/main.cpp.obj	d019d32135e4280d
+1302	1429	6905868850973437	cppdefault.exe	abdc0c5aeeb0f6f9
