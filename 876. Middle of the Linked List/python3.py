@@ -8,14 +8,22 @@ def middleNode(head:ListNode) -> list:
     srchNode = head
     midNode = head
     while True:
-        if head != None and head.next != None:
+        if srchNode != None and srchNode.next != None:
             srchNode = srchNode.next.next
-            midNonde = midNode.next
+            midNode = midNode.next
         else:
             break
         
     output = []
+    while True:
+        if midNode != None:
+            output.append(midNode.val)
+            midNode = midNode.next
+        else:
+            break
     
+    return output
+
 
 
 
